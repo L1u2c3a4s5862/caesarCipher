@@ -3,7 +3,7 @@
 
 after INSTALL
 ```
-cd caesar-cipher
+cd caesarCipher
 mv caesarCipher /usr/local/bin
 mv caesarCracker /usr/local/bin
 ```
